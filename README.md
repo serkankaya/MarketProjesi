@@ -46,5 +46,17 @@ Gün Sonu ve Rapor bölümünde yapılabilecekler;
 Ayarlar bölümünde yapılabilecekler;
 Şifre Değiştirme İşlemi ...
 
+![alt text](1.jpeg "Project Photo 1")
+
+![alt text](2.jpeg "Project Photo 2")
+
+![alt text](3.jpeg "Project Photo 3")
+
+![alt text](4.jpeg "Project Photo 4")
+
+![alt text](5.jpeg "Project Photo 5")
+
+![alt text](6.jpeg "Project Photo 6")
+
 
 
