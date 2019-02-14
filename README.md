@@ -58,5 +58,5 @@ Ayarlar bölümünde yapılabilecekler;
 
 ![alt text](6.jpeg "Project Photo 6")
 
-
+MIT License
 
